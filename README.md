@@ -13,6 +13,10 @@ A curated listed of Public APIs for building React, Angular, and Node projects.
 
 ### Integrated Payment
 
+- [Moneris Developer program](https://developer.moneris.com/) - Service for verifying, authorizing payments using the Moneris platform.
+- [Moneris Node.js SDK](https://github.com/shaynair/moneris-js) - This is an un-official Node.js library for Moneris.
+- [Moneris Node.js SDK2](https://github.com/AlejandroEsquivel/moneris-js) - Another un-official Node.js library for Moneris.
+
 - [PayPal API](https://developer.paypal.com/docs/api/payments/) - Documentation for PayPal payment service.
 - [PayPal Node.js SDK](https://github.com/paypal/PayPal-node-SDK) - Node.js SDK library for PayPal API service.
 
