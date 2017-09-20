@@ -23,4 +23,8 @@ A curated listed of Public APIs for building React, Angular, and Node projects.
 - [Stripe API](https://stripe.com/docs/api) - Documentation for Stripe payment service
 - [Stripe Node API library](https://github.com/stripe/stripe-node) - Official Node.js library for using Stripe API.
 
+- [Square API](https://docs.connect.squareup.com/) - Documentation for Getting started with Square Payment API
+- [Square Development](https://squareup.com/ca/developers) - Portal location for Square API development
+- [Square API examples](https://github.com/square/connect-api-examples) - Sample programs using Square API.
+
 
