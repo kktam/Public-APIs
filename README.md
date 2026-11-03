@@ -28,3 +28,7 @@ A curated listed of Public APIs for building React, Angular, and Node projects.
 - [Square API examples](https://github.com/square/connect-api-examples) - Sample programs using Square API.
 
 
+## Travel and Activities
+
+- [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Free, keyless daily experience inspiration, with Dutch/Netherlands defaults and optional language/world filters.
+
